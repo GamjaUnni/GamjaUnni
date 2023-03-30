@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yuna's&nbsp;Github&fontSize=90" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yuna's&nbsp;Github&fontSize=90" />
+</div>
 
-<div align="center" style="font-size=20px">
+<div align="center">
   <h4>🔧 Tech Stack ⚙️</h4>
 </div>
 
