@@ -51,8 +51,8 @@
 </div>
 <br/>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamjaUnni&layout=compact"><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=GamjaUnni&show_icons=true">
  
-</div>
+</div> -->
